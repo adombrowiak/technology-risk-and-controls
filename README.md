@@ -61,10 +61,12 @@ Effective risk management depends on clear governance structures and communicati
 - Metrics used to track control effectiveness
 
 ---
+## Key Artifacts
+
+- Sample Technology Risk Register: [View Document](https://github.com/adombrowiak/technology-risk-and-controls/blob/main/technology-risk-register.md)
 
 ## Future Enhancements
 Planned additions may include:
-- A sample technology risk register
 - Risk-to-control mapping artifacts
 - Example governance documentation
 - Metrics and reporting templates
